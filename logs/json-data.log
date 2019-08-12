@@ -1,0 +1,26 @@
+{"timestamp":1552334368033,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1552334371221,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1552334373265,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552334375816,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552334378756,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552334381916,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552334384087,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1552334386304,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1552334400121,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1552334402796,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1552334405758,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552334409097,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552334413000,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552334415741,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552335619654,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1552335622976,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1552335625682,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552335628507,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552335631302,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552335635157,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552335637209,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1552335639732,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1552335861387,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1552335864992,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1552335868693,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1552335871434,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}

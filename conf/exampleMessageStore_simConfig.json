@@ -1,0 +1,10 @@
+{
+    "workflows": [{
+            "workflowName": "message_store_example",
+            "workflowFilename": "exampleMessageStore_workflow.json",
+            "instances": 1
+        }],
+    "producers": [{
+        "type": "logger"
+    }]
+}
