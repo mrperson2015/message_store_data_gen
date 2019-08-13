@@ -7,6 +7,7 @@ RUN curl -k -o json-data-generator-bin.tar -L https://github.com/everwatchsoluti
 WORKDIR /json-data-generator
 
 RUN cp conf/exampleSimConfig.json conf/SimConfig.json; mkdir logs
+COPY conf/* conf/
 
 VOLUME ["/json-data-generator/logs", "/json-data-generator/conf"]
 

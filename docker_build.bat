@@ -1,1 +1,1 @@
-docker build -t cam/message_store_data_gen:latest -t cam/message_store_data_gen:1.4.0 %CD%
+docker build -t mrperson/message_store_data_gen:latest -t mrperson/message_store_data_gen:1.4.0 %CD%
