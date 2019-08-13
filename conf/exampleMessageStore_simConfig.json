@@ -5,6 +5,7 @@
             "instances": 1
         }],
     "producers": [{
-        "type": "logger"
+        "type": "http-post",
+        "url": "http://message_store_data_api:3000/messages"
     }]
 }
